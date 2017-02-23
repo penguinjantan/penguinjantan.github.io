@@ -9,18 +9,34 @@ body{
 	background-position: right;
 }
 
+
 header{
 	color: blue;
 	text-align: center;
 }
 
-#heading2{
+.heading2{
 	color: green;
 }
-
-#paragraf1{
-	text-indent: 40px;
+.paragraf{
 	text-align: justify;
+	text-indent: 40px;
+}
+
+.satu{
+	color: blueviolet;
+}
+
+.dua{
+	color: red;
+}
+
+.tiga{
+	color: yellow;
+}
+
+.empat{
+	color: blue;
 }
 
 label{
@@ -28,5 +44,5 @@ label{
 }
 
 footer{
-	text-align: left: 
+	text-align: right; 
 }
